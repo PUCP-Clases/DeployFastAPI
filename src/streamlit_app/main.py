@@ -10,8 +10,7 @@ image = Image.open(image_path)
 
 
 # Set API Endpoint
-URL = 'https://radiant-lowlands-86946.herokuapp.com/predict'
-
+URL = 'http://127.0.0.1:8000/predict'
 
 # Create a function to make prediction
 def make_prediction(pg: float, bwr1: float, bp : float, bwr2: float, bwr3: float, bmi: float, bwr4: float, age: int, insurance: bool):
