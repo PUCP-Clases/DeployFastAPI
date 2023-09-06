@@ -15,7 +15,7 @@ from typing import List
 
 
 # Create an instance of FastAPI
-app = FastAPI(debug=True)
+app = FastAPI()
 
 # get absolute path
 DIRPATH = os.path.dirname(os.path.realpath(__file__))
