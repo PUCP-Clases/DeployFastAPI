@@ -56,6 +56,7 @@ Este proyecto combina el aprendizaje automático y FastAPI para desarrollar una 
 | Scikit-learn | 0.24.1    |
 | Pandas       | 1.2.4     |
 | Jinja2       | 3.1.2     |
+| pandas-profiling       | 3.6.6     |
 
 ## 3. Entregables <a name="entregables"></a>
 1. Un Jupyter notebook para entrenar un modelo de clasificación
