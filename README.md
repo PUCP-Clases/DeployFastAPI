@@ -68,20 +68,20 @@ Este proyecto combina el aprendizaje automático y FastAPI para desarrollar una 
 ## 4. Instalación <a name="instalacion"></a>
 Clona el repositorio en tu máquina local:
 
-        git clone https://github.com/PUCP-Clases/DeployFastAPI.git
+    git clone https://github.com/PUCP-Clases/DeployFastAPI.git
 
 Navega al directorio del proyecto:
 
-        cd DeployFastAPI
+    cd DeployFastAPI
 Crea un nuevo entorno virtual y actívalo:
 
 - Windows:
 
-        python -m venv venv; venv\Scripts\activate; python -m pip install -q --upgrade pip; python -m pip install -qr requirements.txt  
+    python -m venv venv; venv\Scripts\activate; python -m pip install -q --upgrade pip; python -m pip install -qr requirements.txt  
 
 - Linux y MacOs:
 
-        python3 -m venv venv; source venv/bin/activate; python -m pip install -q --upgrade pip; python -m pip install -qr requirements.txt
+    python3 -m venv venv; source venv/bin/activate; python -m pip install -q --upgrade pip; python -m pip install -qr requirements.txt
 
 ## 5. Ejecución <a name='ejecucion'></a>
 1. Notebooks
