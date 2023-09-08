@@ -18,7 +18,7 @@ Este proyecto combina el aprendizaje automático y FastAPI para desarrollar una 
 3. [Entregables](#entregables)
 4. [Instalación](#instalacion)
 5. [Ejecución](#ejecucion)
-6. [API Endpoints](#puntos-de-extremo)
+6. [API Endpoints](#api-endpoints)
 7. [Uso de la Aplicación](#uso)
 8.  [Información de Contacto](#contacto)
 
@@ -126,7 +126,7 @@ Abre tu navegador e ingresa a http://localhost:8501 o http://172.20.10.12:8501 p
 5. **/predict-batch**: Recibe múltiples entradas y devuelve múltiples predicciones.
 5. **/upload-data**: Recibe un archivo JSON o CSV, lo procesa y devuelve predicciones.
 
-## 7. Uso de la Aplicación <a name="usage"></a>
+## 7. Uso de la Aplicación <a name="uso"></a>
 Para probar los diversos endpoints de la API utilizando la documentación proporcionada, sigue estos pasos:
 
 1. Comienza accediendo a la documentación de la API, que proporciona información detallada sobre los endpoints disponibles y sus funcionalidades.
@@ -141,7 +141,7 @@ Para probar los diversos endpoints de la API utilizando la documentación propor
 
 6. Repite el proceso para probar diferentes endpoints o varía los datos de entrada para explorar las capacidades de la API. Asegúrate de seguir las pautas de la documentación para cada endpoint para obtener resultados precisos.
 
-## 8. Información de Contacto <a name="contact"></a>
+## 8. Información de Contacto <a name="contacto"></a>
 
 <table>
   <tr>
