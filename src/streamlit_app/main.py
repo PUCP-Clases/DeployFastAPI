@@ -59,7 +59,7 @@ st.image(image, caption=None, width=None, use_column_width=None, clamp=False, ch
 
 # Create app interface
 container = st.container()
-container.write("Inputs to predict Sepsis")
+container.write("**Inputs to predict Sepsis**")
 with container:
     col1, col2, col3 = st.columns(3)
     

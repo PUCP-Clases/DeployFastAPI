@@ -114,7 +114,7 @@ Para ejecutar la aplicación, sigue estos pasos: Después de haber instalado tod
 En la raíz de tu repositorio en tu terminal:
 `root :: <DeployFastAPI> ...` ejecuta el comando:
 
-            streamlit src/streamlit_app/main.py
+            streamlit run src/streamlit_app/main.py
 
 Abre tu navegador e ingresa a http://localhost:8501 o http://172.20.10.12:8501 para acceder a la aplicación.
 
