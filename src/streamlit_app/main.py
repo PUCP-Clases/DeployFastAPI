@@ -1,8 +1,11 @@
 import streamlit as st
 import requests
 from PIL import Image
+import os
 
-image_path = 'src\streamlit_app\images\image.jpg'
+cur_dir = os.getcwd()
+
+image_path = cur_dir + 'src/streamlit_app/images/image.jpg'
 image = Image.open(image_path)
 
 
