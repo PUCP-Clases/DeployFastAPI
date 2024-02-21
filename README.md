@@ -77,11 +77,11 @@ Crea un nuevo entorno virtual y actívalo:
 
 - Windows:
 
-    python -m venv venv; venv\Scripts\activate; python -m pip install -q --upgrade pip; python -m pip install -qr requirements.txt  
+    python -m venv venv; venv\Scripts\activate; python -m pip install -q --upgrade pip; python -m pip install -r requirements.txt  
 
 - Linux y MacOs:
 
-    python3 -m venv venv; source venv/bin/activate; python -m pip install -q --upgrade pip; python -m pip install -qr requirements.txt
+    python3 -m venv venv; source venv/bin/activate; python -m pip install -q --upgrade pip; python -m pip install -r requirements.txt
 
 ## 5. Ejecución <a name='ejecucion'></a>
 1. Notebooks
