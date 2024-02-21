@@ -5,7 +5,7 @@ import os
 
 cur_dir = os.getcwd()
 
-image_path = cur_dir + 'src/streamlit_app/images/image.jpg'
+image_path = cur_dir + '/src/streamlit_app/images/image.jpg'
 image = Image.open(image_path)
 
 
